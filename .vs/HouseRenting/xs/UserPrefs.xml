@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BAF67FEA-1778-41AC-8189-F07EC5563DF1}|https">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HouseRenting" expanded="True" selected="True">
+            <Node name="HouseRenting.Server" expanded="True" />
+            <Node name="HouseReting.Client" expanded="True" />
+            <Node name="Housereting.Share" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HouseReting.Client PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Housereting.Share FirstBuild="True" />
+</Properties>

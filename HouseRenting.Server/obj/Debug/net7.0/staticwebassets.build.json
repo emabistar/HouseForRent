@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U9eqAM+mZ7VkdZXICWEUyzwLG1MH0Rv2T3/5LZBsDk4=",
+  "Source": "HouseRenting.Server",
+  "BasePath": "_content/HouseRenting.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bruger/Projects/HouseRenting/Housereting.Share/Housereting.Share.csproj": {}
+  },
+  "projects": {
+    "/Users/bruger/Projects/HouseRenting/Housereting.Share/Housereting.Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bruger/Projects/HouseRenting/Housereting.Share/Housereting.Share.csproj",
+        "projectName": "Housereting.Share",
+        "projectPath": "/Users/bruger/Projects/HouseRenting/Housereting.Share/Housereting.Share.csproj",
+        "packagesPath": "/Users/bruger/.nuget/packages/",
+        "outputPath": "/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bruger/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

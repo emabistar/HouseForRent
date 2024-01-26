@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/lllUDJGt.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/scopedcss/bundle/HouseReting.Client.styles.css",
+      "PackagePath": "staticwebassets/HouseReting.Client.styles.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/about.jpg",
+      "PackagePath": "staticwebassets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/call-to-action.jpg",
+      "PackagePath": "staticwebassets/img/call-to-action.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/header.jpg",
+      "PackagePath": "staticwebassets/img/header.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-192.png",
+      "PackagePath": "staticwebassets/img/icon-192.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-apartment.png",
+      "PackagePath": "staticwebassets/img/icon-apartment.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-building.png",
+      "PackagePath": "staticwebassets/img/icon-building.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-condominium.png",
+      "PackagePath": "staticwebassets/img/icon-condominium.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-deal.png",
+      "PackagePath": "staticwebassets/img/icon-deal.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-house.png",
+      "PackagePath": "staticwebassets/img/icon-house.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-housing.png",
+      "PackagePath": "staticwebassets/img/icon-housing.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-luxury.png",
+      "PackagePath": "staticwebassets/img/icon-luxury.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-neighborhood.png",
+      "PackagePath": "staticwebassets/img/icon-neighborhood.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-search.png",
+      "PackagePath": "staticwebassets/img/icon-search.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/icon-villa.png",
+      "PackagePath": "staticwebassets/img/icon-villa.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-1.jpg",
+      "PackagePath": "staticwebassets/img/property-1.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-2.jpg",
+      "PackagePath": "staticwebassets/img/property-2.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-3.jpg",
+      "PackagePath": "staticwebassets/img/property-3.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-4.jpg",
+      "PackagePath": "staticwebassets/img/property-4.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-5.jpg",
+      "PackagePath": "staticwebassets/img/property-5.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/property-6.jpg",
+      "PackagePath": "staticwebassets/img/property-6.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/wow/wow.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.js"
+    },
+    {
+      "Id": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/wwwroot/lib/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.HouseReting.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.HouseReting.Client.props",
+      "PackagePath": "build\\HouseReting.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.HouseReting.Client.props",
+      "PackagePath": "buildMultiTargeting\\HouseReting.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.HouseReting.Client.props",
+      "PackagePath": "buildTransitive\\HouseReting.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

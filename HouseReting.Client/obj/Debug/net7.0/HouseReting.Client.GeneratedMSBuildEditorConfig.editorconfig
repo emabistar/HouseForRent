@@ -1,0 +1,95 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = HouseReting.Client
+build_property.RootNamespace = HouseReting.Client
+build_property.ProjectDir = /Users/bruger/Projects/HouseRenting/HouseReting.Client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/bruger/Projects/HouseRenting/HouseReting.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/CallInAction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsbEluQWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/Category.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/HeaderStart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSGVhZGVyU3RhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/PropertyListing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvcGVydHlMaXN0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/TeamStart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVhbVN0YXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Pages/Testimonial.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdGltb25pYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Shared/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1vt4vcppau
+
+[/Users/bruger/Projects/HouseRenting/HouseReting.Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9wj4dqz7ok
