@@ -22,8 +22,15 @@
     <ProjectReference Include="..\Housereting.Share\Housereting.Share.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
-    <ProjectReference Include="..\HouseReting.Client\HouseReting.Client.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Sevices\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Sevices\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 </Project>

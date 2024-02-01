@@ -15,7 +15,7 @@ public class AppDbContext:DbContext
 
 
         }
-         DbSet<House> Houses { get; set; }
+         public DbSet<House> Houses { get; set; }
     }
 
 }

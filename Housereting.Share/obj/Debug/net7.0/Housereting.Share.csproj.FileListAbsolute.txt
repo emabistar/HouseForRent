@@ -1,0 +1,12 @@
+/Users/bruger/Projects/HouseRenting/Housereting.Share/bin/Debug/net7.0/Housereting.Share.deps.json
+/Users/bruger/Projects/HouseRenting/Housereting.Share/bin/Debug/net7.0/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/Housereting.Share/bin/Debug/net7.0/Housereting.Share.pdb
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.AssemblyInfoInputs.cache
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.AssemblyInfo.cs
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.csproj.CoreCompileInputs.cache
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/refint/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.pdb
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/ref/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/Housereting.Share/obj/Debug/net7.0/Housereting.Share.csproj.AssemblyReference.cache

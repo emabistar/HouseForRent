@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8zW9QRTuH0W7SV7eGoQ/388rA2t87t2FHTemv2dEVCM=",
+  "Hash": "ZsnBKn4nB9Q8hX7QcGA1i1jRetqqFlaONgfSBgCe884=",
   "Source": "HouseReting.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -134,6 +134,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net7.0/HouseReting.Client.pdb"
+    },
+    {
+      "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.dll",
+      "SourceId": "HouseReting.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Housereting.Share.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/Housereting.Share/bin/Debug/net7.0/Housereting.Share.dll"
+    },
+    {
+      "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.pdb",
+      "SourceId": "HouseReting.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Housereting.Share.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/Housereting.Share/bin/Debug/net7.0/Housereting.Share.pdb"
     },
     {
       "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/icudt_CJK.dat",
@@ -4199,6 +4233,23 @@
       "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/HouseReting.Client.pdb"
     },
     {
+      "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/d7DDZIm2.gz",
+      "SourceId": "HouseReting.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Housereting.Share.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.dll"
+    },
+    {
       "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/DHoQ+jGt.gz",
       "SourceId": "HouseReting.Client",
       "SourceType": "Computed",
@@ -6815,6 +6866,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Windows.dll"
+    },
+    {
+      "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/ZcIpSlI+.gz",
+      "SourceId": "HouseReting.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Housereting.Share.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.pdb"
     },
     {
       "Identity": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/zqGE0fmG.gz",

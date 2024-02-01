@@ -5,6 +5,8 @@
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/HouseReting.Client.dll
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/HouseReting.Client.pdb
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.pdb
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/icudt_CJK.dat
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/icudt_EFIGS.dat
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/icudt_no_CJK.dat
@@ -244,6 +246,7 @@
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/HouseReting.Client.pdb.gz
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Formats.Tar.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
@@ -398,6 +401,7 @@
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Buffers.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.15.eiz07w92os.js.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Windows.dll.gz
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/Housereting.Share.pdb.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Resources.Writer.dll.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
@@ -602,6 +606,8 @@
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/icudt_CJK.dat
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/icudt_EFIGS.dat
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/icudt_no_CJK.dat
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/Housereting.Share.dll
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/bin/Debug/net7.0/Housereting.Share.pdb
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/HouseReting.Client.csproj.AssemblyReference.cache
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/HouseReting.Client.GeneratedMSBuildEditorConfig.editorconfig
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/HouseReting.Client.AssemblyInfoInputs.cache
@@ -806,6 +812,8 @@
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/EzF4xxEs.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/YBgXBq+A.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/HSNo2nj5.gz
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/d7DDZIm2.gz
+/Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/ZcIpSlI+.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/R+EI4gwh.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/D3LmomgB.gz
 /Users/bruger/Projects/HouseRenting/HouseReting.Client/obj/Debug/net7.0/build-gz/lllUDJGt.gz

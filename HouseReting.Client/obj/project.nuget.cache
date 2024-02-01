@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0iLuTRu7S77c4JtZ64sIZXTgSNQCAvet5HWHtiRE/Wozu3BYZ+0CGvWsgYzc63WmPHyNmPs1SxCkNzbKkcuQlQ==",
+  "dgSpecHash": "kf5IFPgn5ROJSSlEKocBGIOZwZ+lnfEfHkNG2MNYzGAnE7BZZdvoR4XZOyxQQbxJoczv0IHVayC6Wm5ONCTDZw==",
   "success": true,
   "projectFilePath": "/Users/bruger/Projects/HouseRenting/HouseReting.Client/HouseReting.Client.csproj",
   "expectedPackageFiles": [
@@ -28,10 +28,8 @@
     "/Users/bruger/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/bruger/.nuget/packages/microsoft.jsinterop/7.0.15/microsoft.jsinterop.7.0.15.nupkg.sha512",
     "/Users/bruger/.nuget/packages/microsoft.jsinterop.webassembly/7.0.15/microsoft.jsinterop.webassembly.7.0.15.nupkg.sha512",
-    "/Users/bruger/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23211.1/microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/bruger/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23211.1/microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/bruger/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.1/microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
     "/Users/bruger/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
+    "/Users/bruger/.nuget/packages/system.net.http.json/7.0.0/system.net.http.json.7.0.0.nupkg.sha512",
     "/Users/bruger/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/bruger/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/Users/bruger/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.15/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.15.nupkg.sha512"

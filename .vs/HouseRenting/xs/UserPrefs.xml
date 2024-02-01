@@ -1,13 +1,23 @@
 ﻿<Properties StartupConfiguration="{BAF67FEA-1778-41AC-8189-F07EC5563DF1}|https">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HouseReting.Client/Services/IServiceClient.cs">
+    <Files>
+      <File FileName="HouseRenting.Server/Repositories/HouseRepository.cs" Line="30" Column="51" />
+      <File FileName="HouseRenting.Server/Sevices/IHouseService.cs" Line="17" Column="64" />
+      <File FileName="HouseRenting.Server/Sevices/HouseService.cs" Line="11" Column="50" />
+      <File FileName="Housereting.Share/HouseDTOs/HouseRequest.cs" Line="2" Column="38" />
+      <File FileName="HouseReting.Client/Program.cs" Line="8" Column="1" />
+      <File FileName="HouseRenting.Server/Repositories/IHouseRepository.cs" Line="1" Column="1" />
+      <File FileName="HouseRenting.Server/Program.cs" Line="17" Column="59" />
+      <File FileName="HouseRenting.Server/Controllers/HouseController.cs" Line="15" Column="32" />
+      <File FileName="Housereting.Share/Entities/House.cs" Line="1" Column="1" />
+      <File FileName="HouseReting.Client/Services/IServiceClient.cs" Line="9" Column="9" />
+      <File FileName="HouseReting.Client/Services/ServiceClient.cs" Line="5" Column="3" />
+      <File FileName="HouseReting.Client/App.razor" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HouseRenting" expanded="True" selected="True">
-            <Node name="HouseRenting.Server" expanded="True" />
-            <Node name="HouseReting.Client" expanded="True" />
-            <Node name="Housereting.Share" expanded="True" />
-          </Node>
+          <Node name="HouseRenting" expanded="True" />
         </State>
       </Pad>
     </Pads>
@@ -19,5 +29,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Housereting.Share FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HouseRenting.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

@@ -198,13 +198,15 @@
       "mscorlib.dll": "sha256-fVDx40u1vKqhdy509hDF73SIx6C5q5Mst93LwfZWVQY=",
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
-      "HouseReting.Client.dll": "sha256-f9BG6\/cr5yG0pgNTM9LJZEtgjCxA0Ae7RizgSuxrJXc="
+      "Housereting.Share.dll": "sha256-yr5wsdn9yHHUrgFl5\/vXDkjdzTpSSVI9WYCcYV09tTc=",
+      "HouseReting.Client.dll": "sha256-k9SJyWtjy4ibmJVSdLFX81BSBaBfM0rk+lLqagATm3s="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "HouseReting.Client.pdb": "sha256-YrundFJbLOOb3\/ZRHDM5exV72pQbEEhSLbl1ZPYbHOA="
+      "Housereting.Share.pdb": "sha256-RNd24RYmVnLli86R6+bQxAVhhYAusbzL69DWI6cS\/Vc=",
+      "HouseReting.Client.pdb": "sha256-hRVklxjwNVvhL1NHE8XKCAZ8v+U6xYKByNr9c+XcOKY="
     },
     "runtime": {
       "dotnet.7.0.15.eiz07w92os.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",

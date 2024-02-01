@@ -11,13 +11,26 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' ">
     <ExternalConsole>true</ExternalConsole>
+    <WasmStripILAfterAOT>false</WasmStripILAfterAOT>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.15" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.15" PrivateAssets="all" />
+    <PackageReference Include="System.Net.Http.Json" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Remove="wwwroot\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Housereting.Share\Housereting.Share.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
